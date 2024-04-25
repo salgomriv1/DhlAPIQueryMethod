@@ -1,0 +1,1 @@
+This is a PHP method for a Prestashop module that recovers the price of the carrier for a shipment providing the destination and the weight. It has a cache implemented to avoid repetitive access to DHL API. For now it is configured to access to the DHL's test API url
